@@ -1,0 +1,14 @@
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\bin\Debug\net6.0\RepasoRecuperatorio.exe
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\bin\Debug\net6.0\RepasoRecuperatorio.deps.json
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\bin\Debug\net6.0\RepasoRecuperatorio.runtimeconfig.json
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\bin\Debug\net6.0\RepasoRecuperatorio.dll
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\bin\Debug\net6.0\RepasoRecuperatorio.pdb
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.AssemblyInfoInputs.cache
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.AssemblyInfo.cs
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.dll
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\refint\RepasoRecuperatorio.dll
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.pdb
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\RepasoRecuperatorio.genruntimeconfig.cache
+C:\Users\adora\source\repos\RepasoRecuperatorio\RepasoRecuperatorio\obj\Debug\net6.0\ref\RepasoRecuperatorio.dll
